@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2015 Zhang Hai <Dreaming.in.Code.ZH@Gmail.com>
+  ~ All Rights Reserved.
+  -->
+
+<resources>
+    <string name="app_name">SSID 测试</string>
+    <string name="ssid_empty">（空）</string>
+    <string name="is_zjuwlan_true">判定为 ZJUWLAN</string>
+    <string name="is_zjuwlan_false">判定为非 ZJUWLAN</string>
+    <string name="timestamp_pattern">YYYY-MM-dd HH:mm:ss</string>
+    <string name="about">Made by Zhang Hai with &#9829;</string>
+    <string name="copied_to_clipboard">SSID 数据已复制至剪贴板，请将其反馈给开发者。</string>
+</resources>
